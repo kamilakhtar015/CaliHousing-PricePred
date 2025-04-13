@@ -4,7 +4,7 @@ This project is a complete end-to-end Machine Learning solution for predicting h
 
 ## 📌 Project Overview
 
-This project aims to predict the median house value for California districts, given a number of features describing those districts.
+This project aims to predict the median house value for California districts, given several features describing those districts.
 
 The ML workflow includes:
 
@@ -39,7 +39,7 @@ The dataset used is a modified version of the California housing data from the 1
 - Handling missing values and categorical attributes
 - Feature scaling and transformation pipelines
 - Model evaluation using cross-validation
-- Grid search for hyperparameter tuning
+- Grid search for hyperparameter tuning 
 
 ## 🔍 How to Run
 
