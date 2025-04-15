@@ -11,7 +11,7 @@ The ML workflow includes:
 1. 🧠 Understanding the problem  
 2. 📥 Data collection and loading  
 3. 📊 Data visualization and exploration  
-4. 🧹 Data preparation and transformation  
+4. 🧹 Data preparation and transformation    
 5. 🏗️ Model selection and training  
 6. 🔍 Hyperparameter tuning  
 7. 📈 Performance evaluation  
