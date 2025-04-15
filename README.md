@@ -1,6 +1,6 @@
 # 🏘️ California Housing Price Prediction
 
-This project is a complete end-to-end Machine Learning solution for predicting housing prices in California. It is based on the first hands-on project from the book Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow by Aurélien Géron.
+This project is a complete end-to-end Machine Learning solution for predicting housing prices in California. It is based on the first hands-on project from the book Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow by Aurélien Géron.  
 
 ## 📌 Project Overview
 
