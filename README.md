@@ -45,4 +45,4 @@ The dataset used is a modified version of the California housing data from the 1
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/kamilakhtar015/CaliHousing-PricePred.git
+   git clone https://github.com/kamilakhtar015/CaliHousing-PricePred.git                   
