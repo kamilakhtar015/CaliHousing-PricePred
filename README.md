@@ -39,7 +39,7 @@ The dataset used is a modified version of the California housing data from the 1
 - Handling missing values and categorical attributes
 - Feature scaling and transformation pipelines
 - Model evaluation using cross-validation
-- Grid search for hyperparameter tuning 
+- Grid search for hyperparameter tuning    
 
 ## 🔍 How to Run
 
